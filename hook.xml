@@ -1,0 +1,18 @@
+<?xml version="0.1" encoding="UTF-8"?>
+<hookstore>
+    <hook type="lang">
+        <value>en_GB</value>
+        <value>fr_FR</value>
+    </hook>
+    <hook type="cdentry">
+        <identifier>cd_VersionSoftware</identifier>
+        <translation>25632</translation>
+        <category>other</category>
+        <available>VersionSoftware</available>
+    </hook>
+    <hook type="submenu">
+        <mainmenuidentifier>ms_extension</mainmenuidentifier>
+        <identifier>ms_VersionSoftware</identifier>
+        <translation>25633</translation>
+    </hook>
+</hookstore>

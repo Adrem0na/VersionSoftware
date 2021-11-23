@@ -2,7 +2,7 @@
   "displayName" : "VersionSoftware",
   "author" : ["Vincent"],
   "supportedAgent" : ["Unix"],
-  "version" : "0.5",
+  "version" : "0.1",
   "licence" : "GPLv2",
   "description" : {
     "fr" : "Liste la version du software dash deployé sur le serveur",
